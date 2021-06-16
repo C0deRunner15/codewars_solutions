@@ -1,6 +1,6 @@
 # :fire: Codewars Daily Solutions
 
-This is a simple compilation of all my completed katas, separated by week! 
+This is a simple compilation of all my completed katas! 
 
 ## Purpose
 
